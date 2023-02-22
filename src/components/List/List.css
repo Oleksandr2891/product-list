@@ -1,0 +1,22 @@
+.containerList{
+    width: 960px;
+    margin: 60px auto;
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 30px;
+    row-gap: 20px;
+    width: 960px;
+    height: 100%;
+    cursor: pointer;
+}
+
+.pricesItemList{
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 1.25;
+}

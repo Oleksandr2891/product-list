@@ -1,0 +1,18 @@
+.menuWrapper{
+    width: 100px;
+    margin: 50px auto;
+}
+.menu{
+    display:flex;
+}
+
+.menuLink {
+    padding: 10px;
+    font-size: 30px;
+}
+.menuLink a{
+    color: black;
+}
+.menuLink:hover a{
+    color: blue;
+}

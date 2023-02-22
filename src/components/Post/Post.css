@@ -1,0 +1,38 @@
+.wrapperCard {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.descriptionCard{
+    width: 500px;
+}
+
+.descriptionCard h3{
+    margin-bottom: 10px;
+}
+
+.imagesCardWrapper{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.imgCard{
+    width:90px;
+    height: 90px;
+}
+
+.buttonCard{
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.buttonCard:hover{
+    color:red;
+}
