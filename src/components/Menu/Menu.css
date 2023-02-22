@@ -1,9 +1,10 @@
 .menuWrapper{
-    width: 100px;
+    width: 400px;
     margin: 50px auto;
 }
 .menu{
     display:flex;
+    justify-content: space-evenly;
 }
 
 .menuLink {
